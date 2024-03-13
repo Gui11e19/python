@@ -22,3 +22,12 @@ res = txt.replace("Guille","Andres")
 
 print(res)
 
+"""
+Ejemplo
+
+frase = "Si la implementación es difícil de explicar, puede que sea una mala idea."
+frase = frase.replace("difícil","fácil")
+res = frase.replace("mala","buena")
+
+print(res)
+"""
