@@ -7,9 +7,14 @@
 #indexes print(t[0])
 
 #print(tuple1[1][1])
+#x,y,z = t
+#print(x,y,z) 
 
-t = (1,2,3)
-x,y,z = t
+#casteo a lista
+#lista = list(t)
 
-print(x,y,z) 
+t = (1,2,3,2,2,2)
+print(t.count(2))
+
+
 
