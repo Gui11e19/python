@@ -11,7 +11,7 @@ lista3 = lista + lista2
 # longitud print(len(lista))
 
 # imprimir posicion especifica
-#print(lista[1:2])
+print(lista[5:6])
 
 
 #concatenar listas y anidar listas
