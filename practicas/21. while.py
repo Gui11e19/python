@@ -41,3 +41,10 @@ for numero in lista_numeros:
     else:
         break
 
+
+    lista_nombres = ["Marcos", "Laura", "Mónica", "Javier", "Celina", "Marta", "Darío", "Emiliano", "Melisa"]
+
+for indice, letra in enumerate(lista_nombres):
+    if letra.startswith('M'):
+        print(indice)
+
